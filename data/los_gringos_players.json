@@ -1,0 +1,149 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "name": "Andy Johnson",
+      "number": 1,
+      "position": "Midfielder"
+    },
+    {
+      "id": 2,
+      "name": "Andy Tapia Negrete",
+      "number": 2,
+      "position": "Goalkeeper"
+    },
+    {
+      "id": 3,
+      "name": "Brian Crocker",
+      "number": 3,
+      "position": "Midfielder/Defender"
+    },
+    {
+      "id": 4,
+      "name": "Brian Mulhern",
+      "number": 4,
+      "position": "Midfielder/Defender"
+    },
+    {
+      "id": 5,
+      "name": "Carlos",
+      "number": 5,
+      "position": "Defender"
+    },
+    {
+      "id": 6,
+      "name": "Cesar andres",
+      "number": 6,
+      "position": "Defender"
+    },
+    {
+      "id": 7,
+      "name": "Christian Cancino",
+      "number": 7,
+      "position": "Midfielder"
+    },
+    {
+      "id": 8,
+      "name": "Colin",
+      "number": 17,
+      "position": "Forward"
+    },
+    {
+      "id": 9,
+      "name": "Craig Malvey",
+      "number": 9,
+      "position": "Defender"
+    },
+    {
+      "id": 10,
+      "name": "Daniel Londono",
+      "number": 10,
+      "position": "Midfielder"
+    },
+    {
+      "id": 11,
+      "name": "Didier",
+      "number": 11,
+      "position": "Forward"
+    },
+    {
+      "id": 12,
+      "name": "Eduardo Díaz López",
+      "number": 12,
+      "position": "Midfielder/Forward"
+    },
+    {
+      "id": 13,
+      "name": "Felix Pablo Munoz",
+      "number": 13,
+      "position": "Midfielder"
+    },
+    {
+      "id": 14,
+      "name": "Fidel",
+      "number": 14,
+      "position": "Defender"
+    },
+    {
+      "id": 15,
+      "name": "Herman",
+      "number": 15,
+      "position": "Midfielder"
+    },
+    {
+      "id": 16,
+      "name": "Joel Carey",
+      "number": 16,
+      "position": "Forward"
+    },
+    {
+      "id": 17,
+      "name": "Jubair Hassan",
+      "number": 8,
+      "position": "Forward"
+    },
+    {
+      "id": 18,
+      "name": "Luis",
+      "number": 18,
+      "position": "Defender"
+    },
+    {
+      "id": 19,
+      "name": "Mahmoud",
+      "number": 19,
+      "position": "Forward"
+    },
+    {
+      "id": 20,
+      "name": "Marc Morrison",
+      "number": 20,
+      "position": "Goalkeeper"
+    },
+    {
+      "id": 21,
+      "name": "Matt Keith",
+      "number": 21,
+      "position": "Forward"
+    },
+    {
+      "id": 22,
+      "name": "Pilo",
+      "number": 22,
+      "position": "Defender"
+    },
+    {
+      "id": 23,
+      "name": "Rafa",
+      "number": 23,
+      "position": "Forward"
+    },
+    {
+      "id": 24,
+      "name": "Rodrigo L",
+      "number": 24,
+      "position": "Forward"
+    }
+  ]
+}
+  

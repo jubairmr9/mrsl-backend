@@ -1,0 +1,47 @@
+{
+  "scorers": [
+    {
+      "id": 1,
+      "name": "Andy Johnson",
+      "goals": 1,
+      "games": 3
+    },
+    {
+      "id": 2,
+      "name": "Brian Crocker",
+      "goals": 1,
+      "games": 3
+    },
+    {
+      "id": 3,
+      "name": "Carlos",
+      "goals": 3,
+      "games": 3
+    },
+    {
+      "id": 4,
+      "name": "Didier",
+      "goals": 1,
+      "games": 1
+    },
+    {
+      "id": 5,
+      "name": "Eduardo Díaz López",
+      "goals": 1,
+      "games": 3
+    },
+    {
+      "id": 6,
+      "name": "Matt Keith",
+      "goals": 3,
+      "games": 3
+    },
+    {
+      "id": 7,
+      "name": "Rafa",
+      "goals": 1,
+      "games": 2
+    }
+  ]
+}
+  
