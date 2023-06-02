@@ -31,7 +31,8 @@
       "awayTeam": "Mothers of Invention",
       "homeScore": 1,
       "awayScore": 0,
-      "matchweek": "Week 1"
+      "matchweek": "Week 1",
+      "googleMapLocation": "https://www.google.com/maps/place/McMurray+Fields+-+City+of+Saint+Paul/@44.974069,-93.1503513,17z/data=!3m1!4b1!4m6!3m5!1s0x52b32b22ea4cb50d:0xe5a02ea06f314cde!8m2!3d44.974069!4d-93.147771!16s%2Fg%2F1hg4tqxdv?entry=ttu"
     },
     {
       "id": 4,
@@ -43,7 +44,8 @@
       "homeScore": 2,
       "awayScore": 4,
       "matchweek": "Week 1",
-      "gringosScorers": ["Carlos(p)", "Carlos(p)"]
+      "gringosScorers": ["Carlos(p)", "Carlos(p)"],
+      "googleMapLocation": "https://www.google.com/maps/place/Edor+Nelson+Field/@44.9649957,-93.2410785,17z/data=!3m1!4b1!4m6!3m5!1s0x52b32d386eae50e7:0x3448ab90f0960040!8m2!3d44.9649957!4d-93.2384982!16s%2Fg%2F1ts1m8g_?entry=ttu"
     },
     {
       "id": 5,
@@ -88,7 +90,8 @@
       "homeScore": 3,
       "awayScore": 2,
       "matchweek": "Week 2",
-      "gringosScorers": ["Rafa", "Didier"]
+      "gringosScorers": ["Rafa", "Didier"],
+      "googleMapLocation": "https://www.google.com/maps/place/Edor+Nelson+Field/@44.9649957,-93.2410785,17z/data=!3m1!4b1!4m6!3m5!1s0x52b32d386eae50e7:0x3448ab90f0960040!8m2!3d44.9649957!4d-93.2384982!16s%2Fg%2F1ts1m8g_?entry=ttu"
     },
     {
       "id": 9,
@@ -99,7 +102,8 @@
       "awayTeam": "Magnum",
       "homeScore": 4,
       "awayScore": 1,
-      "matchweek": "Week 3"
+      "matchweek": "Week 3",
+      "googleMapLocation": "https://www.google.com/maps/place/McMurray+Fields+-+City+of+Saint+Paul/@44.974069,-93.1503513,17z/data=!3m1!4b1!4m6!3m5!1s0x52b32b22ea4cb50d:0xe5a02ea06f314cde!8m2!3d44.974069!4d-93.147771!16s%2Fg%2F1hg4tqxdv?entry=ttu"
     },
     {
       "id": 10,
@@ -144,7 +148,8 @@
       "awayTeam": "Medtronic Shocks",
       "homeScore": "NA",
       "awayScore": "NA",
-      "matchweek": "Week ?"
+      "matchweek": "Week ?",
+      "googleMapLocation": "https://www.google.com/maps/place/McMurray+Fields+-+City+of+Saint+Paul/@44.974069,-93.1503513,17z/data=!3m1!4b1!4m6!3m5!1s0x52b32b22ea4cb50d:0xe5a02ea06f314cde!8m2!3d44.974069!4d-93.147771!16s%2Fg%2F1hg4tqxdv?entry=ttu"
     },
     {
       "id": 14,
@@ -155,7 +160,8 @@
       "awayTeam": "Magnum",
       "homeScore": "NA",
       "awayScore": "NA",
-      "matchweek": "Week 4"
+      "matchweek": "Week 4",
+      "googleMapLocation": "https://www.google.com/maps/place/McMurray+Fields+-+City+of+Saint+Paul/@44.974069,-93.1503513,17z/data=!3m1!4b1!4m6!3m5!1s0x52b32b22ea4cb50d:0xe5a02ea06f314cde!8m2!3d44.974069!4d-93.147771!16s%2Fg%2F1hg4tqxdv?entry=ttu"
     },
     {
       "id": 15,
@@ -182,14 +188,15 @@
     {
       "id": 17,
       "date": "06/05/2023",
-      "time": "06:30pm",
+      "time": "08:30pm",
       "location": "Augsburg",
       "homeTeam": "Los Gringos",
       "awayTeam": "Medtronic Shocks",
       "homeScore": "NA",
       "awayScore": "NA",
       "matchweek": "Week 4",
-      "gringosScorers": []
+      "gringosScorers": [],
+      "googleMapLocation": "https://www.google.com/maps/place/Edor+Nelson+Field/@44.9649957,-93.2410785,17z/data=!3m1!4b1!4m6!3m5!1s0x52b32d386eae50e7:0x3448ab90f0960040!8m2!3d44.9649957!4d-93.2384982!16s%2Fg%2F1ts1m8g_?entry=ttu"
     },
     {
       "id": 18,
@@ -201,7 +208,8 @@
       "homeScore": "NA",
       "awayScore": "NA",
       "matchweek": "Week 5",
-      "gringosScorers": []
+      "gringosScorers": [],
+      "googleMapLocation": "https://www.google.com/maps/place/McMurray+Fields+-+City+of+Saint+Paul/@44.974069,-93.1503513,17z/data=!3m1!4b1!4m6!3m5!1s0x52b32b22ea4cb50d:0xe5a02ea06f314cde!8m2!3d44.974069!4d-93.147771!16s%2Fg%2F1hg4tqxdv?entry=ttu"
     },
     {
       "id": 19,
@@ -225,7 +233,8 @@
       "homeScore": "NA",
       "awayScore": "NA",
       "matchweek": "Week 7",
-      "gringosScorers": []
+      "gringosScorers": [],
+      "googleMapLocation": "https://www.google.com/maps/place/Edor+Nelson+Field/@44.9649957,-93.2410785,17z/data=!3m1!4b1!4m6!3m5!1s0x52b32d386eae50e7:0x3448ab90f0960040!8m2!3d44.9649957!4d-93.2384982!16s%2Fg%2F1ts1m8g_?entry=ttu"
     },
     {
       "id": 21,
@@ -237,7 +246,8 @@
       "homeScore": "NA",
       "awayScore": "NA",
       "matchweek": "Week 8",
-      "gringosScorers": []
+      "gringosScorers": [],
+      "googleMapLocation": "https://www.google.com/maps/place/Edor+Nelson+Field/@44.9649957,-93.2410785,17z/data=!3m1!4b1!4m6!3m5!1s0x52b32d386eae50e7:0x3448ab90f0960040!8m2!3d44.9649957!4d-93.2384982!16s%2Fg%2F1ts1m8g_?entry=ttu"
     },
     {
       "id": 22,
@@ -249,7 +259,8 @@
       "homeScore": "NA",
       "awayScore": "NA",
       "matchweek": "Week 9",
-      "gringosScorers": []
+      "gringosScorers": [],
+      "googleMapLocation": "https://www.google.com/maps/place/McMurray+Fields+-+City+of+Saint+Paul/@44.974069,-93.1503513,17z/data=!3m1!4b1!4m6!3m5!1s0x52b32b22ea4cb50d:0xe5a02ea06f314cde!8m2!3d44.974069!4d-93.147771!16s%2Fg%2F1hg4tqxdv?entry=ttu"
     },
     {
       "id": 23,
@@ -261,7 +272,8 @@
       "homeScore": "NA",
       "awayScore": "NA",
       "matchweek": "Week 10",
-      "gringosScorers": []
+      "gringosScorers": [],
+      "googleMapLocation": "https://www.google.com/maps/place/Edor+Nelson+Field/@44.9649957,-93.2410785,17z/data=!3m1!4b1!4m6!3m5!1s0x52b32d386eae50e7:0x3448ab90f0960040!8m2!3d44.9649957!4d-93.2384982!16s%2Fg%2F1ts1m8g_?entry=ttu"
     },
     {
       "id": 24,
@@ -285,7 +297,8 @@
       "homeScore": "NA",
       "awayScore": "NA",
       "matchweek": "Week 12",
-      "gringosScorers": []
+      "gringosScorers": [],
+      "googleMapLocation": "https://www.google.com/maps/place/McMurray+Fields+-+City+of+Saint+Paul/@44.974069,-93.1503513,17z/data=!3m1!4b1!4m6!3m5!1s0x52b32b22ea4cb50d:0xe5a02ea06f314cde!8m2!3d44.974069!4d-93.147771!16s%2Fg%2F1hg4tqxdv?entry=ttu"
     },
     {
       "id": 26,
@@ -297,7 +310,8 @@
       "homeScore": "NA",
       "awayScore": "NA",
       "matchweek": "Week 13",
-      "gringosScorers": []
+      "gringosScorers": [],
+      "googleMapLocation": "https://www.google.com/maps/place/Edor+Nelson+Field/@44.9649957,-93.2410785,17z/data=!3m1!4b1!4m6!3m5!1s0x52b32d386eae50e7:0x3448ab90f0960040!8m2!3d44.9649957!4d-93.2384982!16s%2Fg%2F1ts1m8g_?entry=ttu"
     },
     {
       "id": 27,
