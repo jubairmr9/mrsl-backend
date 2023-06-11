@@ -4,43 +4,49 @@
       "id": 1,
       "name": "Andy Johnson",
       "goals": 1,
-      "games": 3
+      "games": 4
     },
     {
       "id": 2,
       "name": "Brian Crocker",
       "goals": 1,
-      "games": 3
+      "games": 4
     },
     {
       "id": 3,
       "name": "Carlos",
       "goals": 3,
-      "games": 3
+      "games": 4
     },
     {
       "id": 4,
       "name": "Didier",
-      "goals": 1,
-      "games": 1
+      "goals": 2,
+      "games": 4
     },
     {
       "id": 5,
       "name": "Eduardo Díaz López",
-      "goals": 1,
-      "games": 3
+      "goals": 2,
+      "games": 4
     },
     {
       "id": 6,
       "name": "Matt Keith",
       "goals": 3,
-      "games": 3
+      "games": 4
     },
     {
       "id": 7,
       "name": "Rafa",
+      "goals": 2,
+      "games": 3
+    },
+    {
+      "id": 8,
+      "name": "Jubair",
       "goals": 1,
-      "games": 2
+      "games": 3
     }
   ]
 }
