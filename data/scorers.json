@@ -9,14 +9,14 @@
     {
       "id": 2,
       "name": "Brian Crocker",
-      "goals": 1,
-      "games": 4
+      "goals": 2,
+      "games": 5
     },
     {
       "id": 3,
       "name": "Carlos",
       "goals": 3,
-      "games": 4
+      "games": 5
     },
     {
       "id": 4,
@@ -28,25 +28,25 @@
       "id": 5,
       "name": "Eduardo Díaz López",
       "goals": 2,
-      "games": 4
+      "games": 5
     },
     {
       "id": 6,
       "name": "Matt Keith",
       "goals": 3,
-      "games": 4
+      "games": 5
     },
     {
       "id": 7,
       "name": "Rafa",
       "goals": 2,
-      "games": 3
+      "games": 4
     },
     {
       "id": 8,
       "name": "Jubair",
       "goals": 1,
-      "games": 3
+      "games": 4
     }
   ]
 }
