@@ -33,8 +33,8 @@
     {
       "id": 6,
       "name": "Matt Keith",
-      "goals": 3,
-      "games": 5
+      "goals": 6,
+      "games": 6
     },
     {
       "id": 7,
@@ -45,8 +45,20 @@
     {
       "id": 8,
       "name": "Jubair",
+      "goals": 3,
+      "games": 5
+    },
+    {
+      "id": 9,
+      "name": "Mahmoud",
       "goals": 1,
-      "games": 4
+      "games": 5
+    },
+    {
+      "id": 10,
+      "name": "Brian Mulhern",
+      "goals": 1,
+      "games": 6
     }
   ]
 }

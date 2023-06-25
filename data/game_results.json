@@ -254,13 +254,46 @@
       "location": "Rich Valley - Field TBD",
       "homeTeam": "Mothers of Invention",
       "awayTeam": "Los Gringos",
-      "homeScore": "NA",
-      "awayScore": "NA",
+      "homeScore": "1",
+      "awayScore": "7",
       "matchweek": "Week 6",
-      "gringosScorers": []
+      "gringosScorers": ["Brian M.", "Mahmoud", "Jubair", "Matt", "Matt", "Jubair", "Matt"]
     },
     {
       "id": 23,
+      "date": "06/19/2023",
+      "time": "06:30pm",
+      "location": "McMurray - West",
+      "homeTeam": "Thicket Football Club",
+      "awayTeam": "Half Time Rec",
+      "homeScore": "3",
+      "awayScore": "0",
+      "matchweek": "Week 6"
+    },
+    {
+      "id": 24,
+      "date": "06/19/2023",
+      "time": "06:30pm",
+      "location": "McMurray - East",
+      "homeTeam": "Magnum",
+      "awayTeam": "Mediocre Strikers",
+      "homeScore": "1",
+      "awayScore": "1",
+      "matchweek": "Week 6"
+    },
+    {
+      "id": 25,
+      "date": "06/19/2023",
+      "time": "06:30pm",
+      "location": "Mounds View High School",
+      "homeTeam": "Medtronic Shocks",
+      "awayTeam": "Kingsmen CF",
+      "homeScore": "1",
+      "awayScore": "2",
+      "matchweek": "Week 6"
+    },
+    {
+      "id": 26,
       "date": "06/26/2023",
       "time": "06:30pm",
       "location": "Augsburg",
@@ -273,7 +306,7 @@
       "googleMapLocation": "https://www.google.com/maps/place/Edor+Nelson+Field/@44.9649957,-93.2410785,17z/data=!3m1!4b1!4m6!3m5!1s0x52b32d386eae50e7:0x3448ab90f0960040!8m2!3d44.9649957!4d-93.2384982!16s%2Fg%2F1ts1m8g_?entry=ttu"
     },
     {
-      "id": 24,
+      "id": 30,
       "date": "07/05/2023**",
       "time": "06:30pm",
       "location": "Augsburg",
@@ -286,7 +319,7 @@
       "googleMapLocation": "https://www.google.com/maps/place/Edor+Nelson+Field/@44.9649957,-93.2410785,17z/data=!3m1!4b1!4m6!3m5!1s0x52b32d386eae50e7:0x3448ab90f0960040!8m2!3d44.9649957!4d-93.2384982!16s%2Fg%2F1ts1m8g_?entry=ttu"
     },
     {
-      "id": 25,
+      "id": 34,
       "date": "07/10/2023",
       "time": "08:30pm",
       "location": "McMurray - West",
@@ -299,7 +332,7 @@
       "googleMapLocation": "https://www.google.com/maps/place/McMurray+Fields+-+City+of+Saint+Paul/@44.974069,-93.1503513,17z/data=!3m1!4b1!4m6!3m5!1s0x52b32b22ea4cb50d:0xe5a02ea06f314cde!8m2!3d44.974069!4d-93.147771!16s%2Fg%2F1hg4tqxdv?entry=ttu"
     },
     {
-      "id": 26,
+      "id": 38,
       "date": "07/17/2023",
       "time": "08:30pm",
       "location": "Augsburg",
@@ -312,7 +345,7 @@
       "googleMapLocation": "https://www.google.com/maps/place/Edor+Nelson+Field/@44.9649957,-93.2410785,17z/data=!3m1!4b1!4m6!3m5!1s0x52b32d386eae50e7:0x3448ab90f0960040!8m2!3d44.9649957!4d-93.2384982!16s%2Fg%2F1ts1m8g_?entry=ttu"
     },
     {
-      "id": 27,
+      "id": 42,
       "date": "07/24/2023",
       "time": "06:30pm",
       "location": "Mounds View Public Schools",
@@ -324,7 +357,7 @@
       "gringosScorers": []
     },
     {
-      "id": 28,
+      "id": 46,
       "date": "07/31/2023",
       "time": "06:30pm",
       "location": "McMurray - West",
@@ -337,7 +370,7 @@
       "googleMapLocation": "https://www.google.com/maps/place/McMurray+Fields+-+City+of+Saint+Paul/@44.974069,-93.1503513,17z/data=!3m1!4b1!4m6!3m5!1s0x52b32b22ea4cb50d:0xe5a02ea06f314cde!8m2!3d44.974069!4d-93.147771!16s%2Fg%2F1hg4tqxdv?entry=ttu"
     },
     {
-      "id": 29,
+      "id": 50,
       "date": "08/07/2023",
       "time": "06:30pm",
       "location": "Augsburg",
@@ -350,7 +383,7 @@
       "googleMapLocation": "https://www.google.com/maps/place/Edor+Nelson+Field/@44.9649957,-93.2410785,17z/data=!3m1!4b1!4m6!3m5!1s0x52b32d386eae50e7:0x3448ab90f0960040!8m2!3d44.9649957!4d-93.2384982!16s%2Fg%2F1ts1m8g_?entry=ttu"
     },
     {
-      "id": 30,
+      "id": 54,
       "date": "08/14/2023",
       "time": "06:30pm",
       "location": "TBD",
