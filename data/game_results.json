@@ -205,8 +205,8 @@
       "location": "McMurray - West",
       "homeTeam": "Thicket Football Club",
       "awayTeam": "Los Gringos",
-      "homeScore": "0",
-      "awayScore": "1",
+      "homeScore": 0,
+      "awayScore": 1,
       "matchweek": "Week 5",
       "gringosScorers": ["Brian C.(p)"],
       "googleMapLocation": "https://www.google.com/maps/place/McMurray+Fields+-+City+of+Saint+Paul/@44.974069,-93.1503513,17z/data=!3m1!4b1!4m6!3m5!1s0x52b32b22ea4cb50d:0xe5a02ea06f314cde!8m2!3d44.974069!4d-93.147771!16s%2Fg%2F1hg4tqxdv?entry=ttu"
@@ -218,8 +218,8 @@
       "location": "McMurray - East",
       "homeTeam": "Kingsmen CF",
       "awayTeam": "Mediocre Strikers",
-      "homeScore": "0",
-      "awayScore": "0",
+      "homeScore": 0,
+      "awayScore": 0,
       "matchweek": "Week 5",
       "googleMapLocation": "https://www.google.com/maps/place/McMurray+Fields+-+City+of+Saint+Paul/@44.974069,-93.1503513,17z/data=!3m1!4b1!4m6!3m5!1s0x52b32b22ea4cb50d:0xe5a02ea06f314cde!8m2!3d44.974069!4d-93.147771!16s%2Fg%2F1hg4tqxdv?entry=ttu"
     },
@@ -230,8 +230,8 @@
       "location": "McMurray - West",
       "homeTeam": "Magnum",
       "awayTeam": "Mothers of Invention",
-      "homeScore": "4",
-      "awayScore": "1",
+      "homeScore": 4,
+      "awayScore": 1,
       "matchweek": "Week 5",
       "googleMapLocation": "https://www.google.com/maps/place/McMurray+Fields+-+City+of+Saint+Paul/@44.974069,-93.1503513,17z/data=!3m1!4b1!4m6!3m5!1s0x52b32b22ea4cb50d:0xe5a02ea06f314cde!8m2!3d44.974069!4d-93.147771!16s%2Fg%2F1hg4tqxdv?entry=ttu"
     },
@@ -254,8 +254,8 @@
       "location": "Rich Valley - Field TBD",
       "homeTeam": "Mothers of Invention",
       "awayTeam": "Los Gringos",
-      "homeScore": "1",
-      "awayScore": "7",
+      "homeScore": 1,
+      "awayScore": 7,
       "matchweek": "Week 6",
       "gringosScorers": ["Brian M.", "Mahmoud", "Jubair", "Matt", "Matt", "Jubair", "Matt"]
     },
@@ -266,8 +266,8 @@
       "location": "McMurray - West",
       "homeTeam": "Thicket Football Club",
       "awayTeam": "Half Time Rec",
-      "homeScore": "3",
-      "awayScore": "0",
+      "homeScore": 3,
+      "awayScore": 0,
       "matchweek": "Week 6"
     },
     {
@@ -277,8 +277,8 @@
       "location": "McMurray - East",
       "homeTeam": "Magnum",
       "awayTeam": "Mediocre Strikers",
-      "homeScore": "1",
-      "awayScore": "1",
+      "homeScore": 1,
+      "awayScore": 1,
       "matchweek": "Week 6"
     },
     {
@@ -288,8 +288,8 @@
       "location": "Mounds View High School",
       "homeTeam": "Medtronic Shocks",
       "awayTeam": "Kingsmen CF",
-      "homeScore": "1",
-      "awayScore": "2",
+      "homeScore": 1,
+      "awayScore": 2,
       "matchweek": "Week 6"
     },
     {
@@ -299,11 +299,44 @@
       "location": "Augsburg",
       "homeTeam": "Los Gringos",
       "awayTeam": "Magnum",
-      "homeScore": "NA",
-      "awayScore": "NA",
+      "homeScore": 3,
+      "awayScore": 2,
       "matchweek": "Week 7",
-      "gringosScorers": [],
+      "gringosScorers": ["Matt", "Carlos(p)", "Jubair"],
       "googleMapLocation": "https://www.google.com/maps/place/Edor+Nelson+Field/@44.9649957,-93.2410785,17z/data=!3m1!4b1!4m6!3m5!1s0x52b32d386eae50e7:0x3448ab90f0960040!8m2!3d44.9649957!4d-93.2384982!16s%2Fg%2F1ts1m8g_?entry=ttu"
+    },
+    {
+      "id": 28,
+      "date": "06/26/2023",
+      "time": "06:30pm",
+      "location": "Rich Valley - Field TBD",
+      "homeTeam": "Mothers of Invention",
+      "awayTeam": "Medtronic Shocks",
+      "homeScore": 2,
+      "awayScore": 3,
+      "matchweek": "Week 7"
+    },
+    {
+      "id": 27,
+      "date": "06/26/2023",
+      "time": "06:30pm",
+      "location": "NSC - Field 27",
+      "homeTeam": "Kingsmen CF",
+      "awayTeam": "Half Time Rec",
+      "homeScore": 7,
+      "awayScore": 0,
+      "matchweek": "Week 7"
+    },
+    {
+      "id": 29,
+      "date": "06/26/2023",
+      "time": "06:30pm",
+      "location": "Sand Creek Athletic Complex - East Field",
+      "homeTeam": "Mediocre Strikers",
+      "awayTeam": "Thicket Football Club",
+      "homeScore": 0,
+      "awayScore": 3,
+      "matchweek": "Week 7"
     },
     {
       "id": 30,
@@ -312,11 +345,44 @@
       "location": "Augsburg",
       "homeTeam": "Los Gringos",
       "awayTeam": "Kingsmen CF",
+      "homeScore": 1,
+      "awayScore": 1,
+      "matchweek": "Week 8",
+      "gringosScorers": ["Carlos(p)"],
+      "googleMapLocation": "https://www.google.com/maps/place/Edor+Nelson+Field/@44.9649957,-93.2410785,17z/data=!3m1!4b1!4m6!3m5!1s0x52b32d386eae50e7:0x3448ab90f0960040!8m2!3d44.9649957!4d-93.2384982!16s%2Fg%2F1ts1m8g_?entry=ttu"
+    },
+    {
+      "id": 31,
+      "date": "07/05/2023",
+      "time": "06:30pm",
+      "location": "Rich Valley - Field TBD",
+      "homeTeam": "Mothers of Invention",
+      "awayTeam": "Mediocre Strikers",
       "homeScore": "NA",
       "awayScore": "NA",
-      "matchweek": "Week 8",
-      "gringosScorers": [],
-      "googleMapLocation": "https://www.google.com/maps/place/Edor+Nelson+Field/@44.9649957,-93.2410785,17z/data=!3m1!4b1!4m6!3m5!1s0x52b32d386eae50e7:0x3448ab90f0960040!8m2!3d44.9649957!4d-93.2384982!16s%2Fg%2F1ts1m8g_?entry=ttu"
+      "matchweek": "Week 8"
+    },
+    {
+      "id": 32,
+      "date": "07/05/2023",
+      "time": "06:30pm",
+      "location": "TBD",
+      "homeTeam": "Magnum",
+      "awayTeam": "Half Time Rec",
+      "homeScore": "NA",
+      "awayScore": "NA",
+      "matchweek": "Week 8"
+    },
+    {
+      "id": 33,
+      "date": "07/05/2023",
+      "time": "06:30pm",
+      "location": "TBD",
+      "homeTeam": "Medtronic Shocks",
+      "awayTeam": "Thicket Football Club",
+      "homeScore": "NA",
+      "awayScore": "NA",
+      "matchweek": "Week 8"
     },
     {
       "id": 34,
