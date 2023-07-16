@@ -391,11 +391,44 @@
       "location": "McMurray - West",
       "homeTeam": "Half Time Rec",
       "awayTeam": "Los Gringos",
-      "homeScore": "NA",
-      "awayScore": "NA",
+      "homeScore": 1,
+      "awayScore": 2,
       "matchweek": "Week 9",
-      "gringosScorers": [],
+      "gringosScorers": ["Rafa", "Mahmoud"],
       "googleMapLocation": "https://www.google.com/maps/place/McMurray+Fields+-+City+of+Saint+Paul/@44.974069,-93.1503513,17z/data=!3m1!4b1!4m6!3m5!1s0x52b32b22ea4cb50d:0xe5a02ea06f314cde!8m2!3d44.974069!4d-93.147771!16s%2Fg%2F1hg4tqxdv?entry=ttu"
+    },
+    {
+      "id": 35,
+      "date": "07/10/2023",
+      "time": "06:30pm",
+      "location": "Mounds View High School",
+      "homeTeam": "Medtronic Shocks",
+      "awayTeam": "Mediocre Strikers",
+      "homeScore": 3,
+      "awayScore": 1,
+      "matchweek": "Week 9"
+    },
+    {
+      "id": 36,
+      "date": "07/10/2023",
+      "time": "06:30pm",
+      "location": "Rich Valley - Field TBD",
+      "homeTeam": "Mothers of Invention",
+      "awayTeam": "Thicket Football Club",
+      "homeScore": 2,
+      "awayScore": 1,
+      "matchweek": "Week 9"
+    },
+    {
+      "id": 37,
+      "date": "07/10/2023",
+      "time": "06:30pm",
+      "location": "McMurray - West",
+      "homeTeam": "Magnum",
+      "awayTeam": "Kingsmen CF",
+      "homeScore": 1,
+      "awayScore": 2,
+      "matchweek": "Week 9"
     },
     {
       "id": 38,
