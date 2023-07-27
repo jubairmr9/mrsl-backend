@@ -437,11 +437,44 @@
       "location": "Augsburg",
       "homeTeam": "Los Gringos",
       "awayTeam": "Mothers of Invention",
+      "homeScore": 3,
+      "awayScore": 3,
+      "matchweek": "Week 10",
+      "gringosScorers": ["Mahmoud", "Mahmoud", "Mahmoud"],
+      "googleMapLocation": "https://www.google.com/maps/place/Edor+Nelson+Field/@44.9649957,-93.2410785,17z/data=!3m1!4b1!4m6!3m5!1s0x52b32d386eae50e7:0x3448ab90f0960040!8m2!3d44.9649957!4d-93.2384982!16s%2Fg%2F1ts1m8g_?entry=ttu"
+    },
+    {
+      "id": 39,
+      "date": "07/17/2023",
+      "time": "06:30pm",
+      "location": "Rich Valley - Field C",
+      "homeTeam": "Kingsmen CF",
+      "awayTeam": "Medtronic Shocks",
       "homeScore": "NA",
       "awayScore": "NA",
-      "matchweek": "Week 10",
-      "gringosScorers": [],
-      "googleMapLocation": "https://www.google.com/maps/place/Edor+Nelson+Field/@44.9649957,-93.2410785,17z/data=!3m1!4b1!4m6!3m5!1s0x52b32d386eae50e7:0x3448ab90f0960040!8m2!3d44.9649957!4d-93.2384982!16s%2Fg%2F1ts1m8g_?entry=ttu"
+      "matchweek": "Week 10"
+    },
+    {
+      "id": 40,
+      "date": "07/17/2023",
+      "time": "08:30pm",
+      "location": "Sand Creek Athletic Complex - East Field",
+      "homeTeam": "Mediocre Strikers",
+      "awayTeam": "Magnum",
+      "homeScore": "NA",
+      "awayScore": "NA",
+      "matchweek": "Week 10"
+    },
+    {
+      "id": 41,
+      "date": "07/17/2023",
+      "time": "08:30pm",
+      "location": "McMurray - East",
+      "homeTeam": "Half Time Rec",
+      "awayTeam": "Thicket Football Club",
+      "homeScore": "NA",
+      "awayScore": "NA",
+      "matchweek": "Week 10"
     },
     {
       "id": 42,
@@ -450,10 +483,43 @@
       "location": "Mounds View Public Schools",
       "homeTeam": "Medtronic Shocks",
       "awayTeam": "Los Gringos",
+      "homeScore": 2,
+      "awayScore": 5,
+      "matchweek": "Week 11",
+      "gringosScorers": ["Rafa", "Mahmoud", "Eduardo", "Mahmoud", "Mahmoud"]
+    },
+    {
+      "id": 43,
+      "date": "07/24/2023",
+      "time": "06:30pm",
+      "location": "Victory Park",
+      "homeTeam": "Magnum",
+      "awayTeam": "Thicket Football Club",
       "homeScore": "NA",
       "awayScore": "NA",
-      "matchweek": "Week 11",
-      "gringosScorers": []
+      "matchweek": "Week 11"
+    },
+    {
+      "id": 44,
+      "date": "07/24/2023",
+      "time": "06:30pm",
+      "location": "Rich Valley - Field A",
+      "homeTeam": "Kingsmen CF",
+      "awayTeam": "Mothers of Invention",
+      "homeScore": "NA",
+      "awayScore": "NA",
+      "matchweek": "Week 11"
+    },
+    {
+      "id": 45,
+      "date": "07/24/2023",
+      "time": "06:30pm",
+      "location": "McMurray - East",
+      "homeTeam": "Half Time Rec",
+      "awayTeam": "Mediocre Strikers",
+      "homeScore": "NA",
+      "awayScore": "NA",
+      "matchweek": "Week 11"
     },
     {
       "id": 46,
