@@ -495,8 +495,8 @@
       "location": "Victory Park",
       "homeTeam": "Magnum",
       "awayTeam": "Thicket Football Club",
-      "homeScore": "NA",
-      "awayScore": "NA",
+      "homeScore": 2,
+      "awayScore": 3,
       "matchweek": "Week 11"
     },
     {
@@ -506,8 +506,8 @@
       "location": "Rich Valley - Field A",
       "homeTeam": "Kingsmen CF",
       "awayTeam": "Mothers of Invention",
-      "homeScore": "NA",
-      "awayScore": "NA",
+      "homeScore": 4,
+      "awayScore": 2,
       "matchweek": "Week 11"
     },
     {
@@ -517,8 +517,8 @@
       "location": "McMurray - East",
       "homeTeam": "Half Time Rec",
       "awayTeam": "Mediocre Strikers",
-      "homeScore": "NA",
-      "awayScore": "NA",
+      "homeScore": 2,
+      "awayScore": 1,
       "matchweek": "Week 11"
     },
     {
