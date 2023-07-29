@@ -450,8 +450,8 @@
       "location": "Rich Valley - Field C",
       "homeTeam": "Kingsmen CF",
       "awayTeam": "Medtronic Shocks",
-      "homeScore": "NA",
-      "awayScore": "NA",
+      "homeScore": 3,
+      "awayScore": 1,
       "matchweek": "Week 10"
     },
     {
@@ -461,8 +461,8 @@
       "location": "Sand Creek Athletic Complex - East Field",
       "homeTeam": "Mediocre Strikers",
       "awayTeam": "Magnum",
-      "homeScore": "NA",
-      "awayScore": "NA",
+      "homeScore": 0,
+      "awayScore": 2,
       "matchweek": "Week 10"
     },
     {
@@ -472,8 +472,8 @@
       "location": "McMurray - East",
       "homeTeam": "Half Time Rec",
       "awayTeam": "Thicket Football Club",
-      "homeScore": "NA",
-      "awayScore": "NA",
+      "homeScore": 3,
+      "awayScore": 3,
       "matchweek": "Week 10"
     },
     {
