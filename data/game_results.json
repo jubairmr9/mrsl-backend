@@ -528,11 +528,44 @@
       "location": "McMurray - West",
       "homeTeam": "Magnum",
       "awayTeam": "Los Gringos",
-      "homeScore": "NA",
-      "awayScore": "NA",
+      "homeScore": 3,
+      "awayScore": 2,
       "matchweek": "Week 12",
-      "gringosScorers": [],
+      "gringosScorers": ["Mahmoud", "Rafa"],
       "googleMapLocation": "https://www.google.com/maps/place/McMurray+Fields+-+City+of+Saint+Paul/@44.974069,-93.1503513,17z/data=!3m1!4b1!4m6!3m5!1s0x52b32b22ea4cb50d:0xe5a02ea06f314cde!8m2!3d44.974069!4d-93.147771!16s%2Fg%2F1hg4tqxdv?entry=ttu"
+    },
+    {
+      "id": 47,
+      "date": "07/31/2023",
+      "time": "06:30pm",
+      "location": "Mounds View High School",
+      "homeTeam": "Medtronic Shocks",
+      "awayTeam": "Mothers of Invention",
+      "homeScore": 3,
+      "awayScore": 1,
+      "matchweek": "Week 12"
+    },
+    {
+      "id": 48,
+      "date": "07/31/2023",
+      "time": "06:30pm",
+      "location": "McMurray - East",
+      "homeTeam": "Half Time Rec",
+      "awayTeam": "Kingsmen CF",
+      "homeScore": 4,
+      "awayScore": 1,
+      "matchweek": "Week 12"
+    },
+    {
+      "id": 49,
+      "date": "07/31/2023",
+      "time": "08:30pm",
+      "location": "McMurray - West",
+      "homeTeam": "Thicket Football Club",
+      "awayTeam": "Mediocre Strikers",
+      "homeScore": 3,
+      "awayScore": 1,
+      "matchweek": "Week 12"
     },
     {
       "id": 50,
