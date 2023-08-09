@@ -574,23 +574,89 @@
       "location": "Augsburg",
       "homeTeam": "Los Gringos",
       "awayTeam": "Thicket Football Club",
-      "homeScore": "NA",
-      "awayScore": "NA",
+      "homeScore": 1,
+      "awayScore": 3,
       "matchweek": "Week 13",
-      "gringosScorers": [],
+      "gringosScorers": ["Eduardo"],
       "googleMapLocation": "https://www.google.com/maps/place/Edor+Nelson+Field/@44.9649957,-93.2410785,17z/data=!3m1!4b1!4m6!3m5!1s0x52b32d386eae50e7:0x3448ab90f0960040!8m2!3d44.9649957!4d-93.2384982!16s%2Fg%2F1ts1m8g_?entry=ttu"
+    },
+    {
+      "id": 51,
+      "date": "08/07/2023",
+      "time": "06:30pm",
+      "location": "Mounds View High School",
+      "homeTeam": "Medtronic Shocks",
+      "awayTeam": "Half Time Rec",
+      "homeScore": 6,
+      "awayScore": 2,
+      "matchweek": "Week 13"
+    },
+    {
+      "id": 52,
+      "date": "08/07/2023",
+      "time": "06:30pm",
+      "location": "Rich Valley - Field TBD",
+      "homeTeam": "Mothers of Invention",
+      "awayTeam": "Magnum",
+      "homeScore": 2,
+      "awayScore": 1,
+      "matchweek": "Week 13"
+    },
+    {
+      "id": 53,
+      "date": "08/07/2023",
+      "time": "08:30pm",
+      "location": "Sand Creek Athletic Complex - East Field",
+      "homeTeam": "Mediocre Strikers",
+      "awayTeam": "Kingsmen CF",
+      "homeScore": 1,
+      "awayScore": 1,
+      "matchweek": "Week 13"
     },
     {
       "id": 54,
       "date": "08/14/2023",
-      "time": "06:30pm",
-      "location": "TBD",
+      "time": "08:30pm",
+      "location": "Sand Creek Athletic Complex - East Field",
       "homeTeam": "Mediocre Strikers",
       "awayTeam": "Los Gringos",
       "homeScore": "NA",
       "awayScore": "NA",
       "matchweek": "Week 14",
       "gringosScorers": []
+    },
+    {
+      "id": 55,
+      "date": "08/14/2023",
+      "time": "06:30pm",
+      "location": "Mounds View High School",
+      "homeTeam": "Medtronic Shocks",
+      "awayTeam": "Magnum",
+      "homeScore": "NA",
+      "awayScore": "NA",
+      "matchweek": "Week 14"
+    },
+    {
+      "id": 56,
+      "date": "08/14/2023",
+      "time": "06:30pm",
+      "location": "McMurray - East",
+      "homeTeam": "Half Time Rec",
+      "awayTeam": "Mothers of Invention",
+      "homeScore": "NA",
+      "awayScore": "NA",
+      "matchweek": "Week 14"
+    },
+    {
+      "id": 57,
+      "date": "08/14/2023",
+      "time": "08:30pm",
+      "location": "McMurray - East",
+      "homeTeam": "Thicket Football Club",
+      "awayTeam": "Kingsmen CF",
+      "homeScore": "NA",
+      "awayScore": "NA",
+      "matchweek": "Week 14"
     }
   ]
 }
