@@ -358,8 +358,8 @@
       "location": "Rich Valley - Field TBD",
       "homeTeam": "Mothers of Invention",
       "awayTeam": "Mediocre Strikers",
-      "homeScore": "NA",
-      "awayScore": "NA",
+      "homeScore": 3,
+      "awayScore": 3,
       "matchweek": "Week 8"
     },
     {
@@ -369,8 +369,8 @@
       "location": "TBD",
       "homeTeam": "Magnum",
       "awayTeam": "Half Time Rec",
-      "homeScore": "NA",
-      "awayScore": "NA",
+      "homeScore": 7,
+      "awayScore": 1,
       "matchweek": "Week 8"
     },
     {
@@ -620,10 +620,10 @@
       "location": "Sand Creek Athletic Complex - East Field",
       "homeTeam": "Mediocre Strikers",
       "awayTeam": "Los Gringos",
-      "homeScore": "NA",
-      "awayScore": "NA",
+      "homeScore": 1,
+      "awayScore": 6,
       "matchweek": "Week 14",
-      "gringosScorers": []
+      "gringosScorers": ["Mahmoud", "Matt", "Mahmoud", "Eduardo", "Mahmoud", "Jubair(p)"]
     },
     {
       "id": 55,
@@ -632,8 +632,8 @@
       "location": "Mounds View High School",
       "homeTeam": "Medtronic Shocks",
       "awayTeam": "Magnum",
-      "homeScore": "NA",
-      "awayScore": "NA",
+      "homeScore": 2,
+      "awayScore": 1,
       "matchweek": "Week 14"
     },
     {
@@ -654,8 +654,8 @@
       "location": "McMurray - East",
       "homeTeam": "Thicket Football Club",
       "awayTeam": "Kingsmen CF",
-      "homeScore": "NA",
-      "awayScore": "NA",
+      "homeScore": 2,
+      "awayScore": 0,
       "matchweek": "Week 14"
     }
   ]
