@@ -657,6 +657,18 @@
       "homeScore": 2,
       "awayScore": 0,
       "matchweek": "Week 14"
+    },
+    {
+      "id": 58,
+      "date": "08/21/2023",
+      "time": "06:30pm",
+      "location": "Eden Prairie HS - Field D",
+      "homeTeam": "Los Gringos",
+      "awayTeam": "Kingsmen CF",
+      "homeScore": "NA",
+      "awayScore": "NA",
+      "matchweek": "Semi Finals",
+      "gringosScorers": []
     }
   ]
 }
