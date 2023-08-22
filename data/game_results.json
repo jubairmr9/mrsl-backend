@@ -665,9 +665,32 @@
       "location": "Eden Prairie HS - Field D",
       "homeTeam": "Los Gringos",
       "awayTeam": "Kingsmen CF",
+      "homeScore": 3,
+      "awayScore": 1,
+      "matchweek": "Semi Finals",
+      "gringosScorers": ["Eduardo", "Brian C.", "Rafa"]
+    },
+    {
+      "id": 59,
+      "date": "08/21/2023",
+      "time": "06:30pm",
+      "location": "Eden Prairie HS - Field F",
+      "homeTeam": "Thicket Football Club",
+      "awayTeam": "Medtronic Shocks",
+      "homeScore": 1,
+      "awayScore": 0,
+      "matchweek": "Semi Finals"
+    },
+    {
+      "id": 60,
+      "date": "08/27/2023",
+      "time": "06:30pm",
+      "location": "Eden Prairie HS - Field F",
+      "homeTeam": "Los Gringos",
+      "awayTeam": "Thicket Football Club",
       "homeScore": "NA",
       "awayScore": "NA",
-      "matchweek": "Semi Finals",
+      "matchweek": "Finals",
       "gringosScorers": []
     }
   ]
